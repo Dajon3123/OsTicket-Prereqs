@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src=https://i.imgur.com/WnPl0Y9.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, I created a Windows 10 Virtual Machine in Azure with 4 vCPUs, named osticket-vm, and configured it with the username labuser and password osTicketPassword1!. To connect to the VM, I retrieved its public IP address from the Azure portal and used it to establish a Remote Desktop connection. This VM will serve as the host environment for the osTicket installation.
 </p>
 <br />
 
