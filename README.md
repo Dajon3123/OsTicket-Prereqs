@@ -48,6 +48,6 @@ Within the osticket-vm, I downloaded the osTicket-Installation-Files.zip and unz
 <img src=https://i.imgur.com/jYTdn3x.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lastly I configured PHP 7.3.8 (non-thread-safe version) with IIS using the PHP Manager for IIS. Next, I installed MySQL 5.5.62, set it up with the root username and password (root/root), and created a new MySQL database called osTicket. I then unzipped the osTicket installation files into C:\inetpub\wwwroot, enabled the necessary PHP extensions (php_imap.dll, php_intl.dll, php_opcache.dll), and configured the file permissions on ost-config.php before completing the osTicket setup through the browser.
 </p>
 <br />
