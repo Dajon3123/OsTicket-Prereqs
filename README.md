@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Item 1 Azure Virtual Machine (VM): A Windows 10 VM with 4 vCPUs named osticket-vm, configured with a username (labuser) and password (osTicketPassword1!) keep the password simple in order to remember it you will need it again. 
 - Item 2 IIS Installation and Configuration: Install and enable IIS on Windows with the CGI feature, along with the necessary components like the PHP Manager for IIS and the Rewrite Module.
-- Item 3
+- Item 3 PHP Installation: Install PHP 7.3.8 (non-thread-safe version) into the C:\PHP directory and configure PHP with IIS using PHP Manager.
 - Item 4
 - Item 5
 
