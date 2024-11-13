@@ -40,7 +40,7 @@ In this step, I created a Windows 10 Virtual Machine in Azure with 4 vCPUs, name
 <img src=https://i.imgur.com/6aIWWc5.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the osticket-vm, I downloaded the osTicket-Installation-Files.zip and unzipped it to the desktop, creating the "osTicket-Installation-Files" folder. These files will be used to install osTicket and its dependencies. I then installed and enabled IIS with the CGI feature by navigating to World Wide Web Services > Application Development Features and checking the CGI box. Next, I installed the PHP Manager for IIS and the Rewrite Module from the folder. Lastly, I created the C:\PHP directory to prepare for PHP installation.
 </p>
 <br />
 
